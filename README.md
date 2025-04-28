@@ -41,4 +41,4 @@ Este projeto tem como objetivo realizar uma análise exploratória detalhada de 
 
 ---
 
-> ⚡ Este README documenta apenas a fase de análise exploratória. Um README completo será disponibilizado na finalização do projeto.
+> ⚡ Este README documenta apenas a fase de análises exploratória e estatística. Um README completo será disponibilizado na finalização do projeto.
