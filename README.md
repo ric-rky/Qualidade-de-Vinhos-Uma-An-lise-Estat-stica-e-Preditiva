@@ -1,6 +1,6 @@
 # Análise Exploratória de Dados: Qualidade dos Vinhos
 
-Este projeto tem como objetivo realizar uma análise exploratória detalhada de um conjunto de dados contendo informações físico-químicas e avaliações de qualidade de vinhos tintos e brancos.
+Este projeto tem como objetivo realizar uma análise exploratória detalhada de um conjunto de dados contendo informações físico-químicas e avaliações de qualidade de vinhos tintos e brancos, incluindo testes de hipóteses, estatísticas descritivas e análises de correlação. Além disso, serão aplicados modelos de classificação, como regressão logística, KNN, decision trees e random forest, para a previsão da qualidade dos vinhos em termos da variável categórica `quality`.
 
 ## Objetivos da Análise
 
