@@ -1,6 +1,7 @@
 # Análise Exploratória de Dados: Qualidade dos Vinhos
 
-Este projeto tem como objetivo realizar uma análise exploratória detalhada de um conjunto de dados contendo informações físico-químicas e avaliações de qualidade de vinhos tintos e brancos, incluindo testes de hipóteses, estatísticas descritivas e análises de correlação. Além disso, serão aplicados modelos de classificação, como regressão logística, KNN, decision trees e random forest, para a previsão da qualidade dos vinhos em termos da variável categórica `quality`.
+Este projeto tem como objetivo realizar uma análise exploratória detalhada de um conjunto de dados contendo informações físico-químicas e avaliações de qualidade de vinhos tintos e brancos, incluindo testes de hipóteses, estatísticas descritivas e análises de correlação.  
+Além disso, serão aplicados modelos supervisionados de classificação, como regressão logística, KNN, decision trees e random forest, para a previsão da qualidade dos vinhos em termos da variável categórica `quality`.
 
 ## Objetivos da Análise
 
@@ -28,11 +29,11 @@ Este projeto tem como objetivo realizar uma análise exploratória detalhada de 
 
 - **Linguagem:** Python
 - **Bibliotecas:** 
-  - Pandas
+  - pandas
   - NumPy
   - Matplotlib
-  - Seaborn
-  - Statsmodels
+  - seaborn
+  - statsmodels
 
 ## Próximos Passos
 
@@ -41,4 +42,4 @@ Este projeto tem como objetivo realizar uma análise exploratória detalhada de 
 
 ---
 
-> ⚡ Este README documenta apenas a fase de análises exploratória e estatística. Um README completo será disponibilizado na finalização do projeto.
+> ⚡ Este README documenta apenas a fase de análises exploratória e estatística. Um README completo será disponibilizado na finalização do projeto!
